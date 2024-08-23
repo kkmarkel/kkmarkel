@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Profile Status
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkmarkel&layout=compact&theme=radical)
+
 <!--
 **kkmarkel/kkmarkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
