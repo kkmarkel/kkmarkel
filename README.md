@@ -20,6 +20,9 @@ I'm Kate.
 
 ![](https://komarev.com/ghpvc/?username=kkmarkel&color=blueviolet&style=flat-square)
 
+### Lil joke
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
+
 <!--
 **kkmarkel/kkmarkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
