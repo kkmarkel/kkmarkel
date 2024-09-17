@@ -18,7 +18,7 @@ I'm Kate.
 ### Profile Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkmarkel&layout=compact&theme=aura)
 
-![](https://komarev.com/ghpvc/?username=kkmarkel&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=kkmarkel&color=blueviolet&style=flat-square)
 
 <!--
 **kkmarkel/kkmarkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
