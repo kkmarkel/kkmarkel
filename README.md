@@ -2,7 +2,18 @@
 I'm Kate.
 
 ### Profile Status
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kkmarkel&hide_title=true&langs_count=4&theme=shades-of-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=kkmarkel&hide_title=true&langs_count=4&theme=shades-of-purple)
+
+<div align="center">
+
+  <a href="https://github-stats-extended.vercel.app/api?username=kkmarkel&hide_title=true&show_icons=true&theme=midnight-purple">
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=kkmarkel&hide_title=true&show_icons=true&theme=midnight-purple" />
+  </a>
+
+  <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=kkmarkel&layout=compact&theme=midnight-purple">
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kkmarkel&layout=compact&theme=midnight-purple" />
+  </a>
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=kkmarkel&color=blueviolet&style=flat-square)
 
