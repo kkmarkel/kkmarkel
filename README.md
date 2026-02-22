@@ -2,7 +2,7 @@
 I'm Kate.
 
 ### Profile Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkmarkel&layout=compact&theme=aura)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kkmarkel&hide_title=true&langs_count=4&theme=shades-of-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=kkmarkel&hide_title=true&langs_count=4&theme=shades-of-purple)
 
 ![](https://komarev.com/ghpvc/?username=kkmarkel&color=blueviolet&style=flat-square)
 
