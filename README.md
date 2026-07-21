@@ -1,9 +1,9 @@
 ## Hi there 👋
 I'm Kate.
 
-### Profile Status
-
 <div align="center">
+
+<h3>Profile Status</h3>
 
   <a href="https://github-stats-extended.vercel.app/api?username=kkmarkel&rank_icon=default&hide_rank=true&&hide_title=true&show_icons=true&theme=midnight-purple">
     <img height="170" src="https://github-stats-extended.vercel.app/api?username=kkmarkel&rank_icon=default&hide_rank=true&&hide_title=true&show_icons=true&theme=midnight-purple" />
@@ -13,24 +13,15 @@ I'm Kate.
     <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kkmarkel&layout=compact&theme=midnight-purple" />
   </a>
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kkmarkel&color=blueviolet&style=flat-square" />
+
+<h3>Lil joke</h3>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+<br><br>
+
+<img src="./assets/me_cat.gif" alt="me cat" width="500" />
+
 </div>
 
-![](https://komarev.com/ghpvc/?username=kkmarkel&color=blueviolet&style=flat-square)
-
-### Lil joke
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
-
-<!--
-**kkmarkel/kkmarkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
