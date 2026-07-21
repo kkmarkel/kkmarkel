@@ -19,9 +19,8 @@ I'm Kate.
 
 <h3>Lil joke</h3>
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
-<br><br>
 
-<img src="./me_cat.gif" alt="me cat" width="500" />
+<img src="./me_cat.gif" alt="me cat" width="250" />
 
 </div>
 
