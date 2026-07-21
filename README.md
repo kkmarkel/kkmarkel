@@ -5,7 +5,7 @@ I'm Kate.
 
 <div align="center">
 
-  <a href="https://github-stats-extended.vercel.app/api?username=kkmarkel&hide_title=true&show_icons=true&theme=midnight-purple">
+  <a href="https://github-stats-extended.vercel.app/api?username=kkmarkel&rank_icon=default&hide_rank=true&&hide_title=true&show_icons=true&theme=midnight-purple">
     <img height="170" src="https://github-stats-extended.vercel.app/api?username=kkmarkel&hide_title=true&show_icons=true&theme=midnight-purple" />
   </a>
 
