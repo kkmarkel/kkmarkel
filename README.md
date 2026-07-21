@@ -21,7 +21,7 @@ I'm Kate.
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
 <br><br>
 
-<img src="./assets/me_cat.gif" alt="me cat" width="500" />
+<img src="./me_cat.gif" alt="me cat" width="500" />
 
 </div>
 
